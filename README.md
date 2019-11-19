@@ -1,10 +1,7 @@
 # Gradle-selenium-testNG
 
-Clone repository to Intellij and it will sync up the dependencies with the help of gradle.
-
 ## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Clone repository to Intellij and it will sync up the dependencies with the help of gradle.
 
 ## Usage
 To run with command line: (Run ALL test cases. It will call the testng.xml file where all test cases are added)
